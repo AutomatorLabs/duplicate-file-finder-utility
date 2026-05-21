@@ -8,6 +8,18 @@
   <img src="screenshots/duplicate demo final - BIGGER.gif" width="1000">
 </p>
 
+<h2 align="center">Video Demo</h2>
+
+<p align="center">
+  <a href="https://youtu.be/Bb4lTHiOWNY">
+    <img src="https://img.youtube.com/vi/Bb4lTHiOWNY/maxresdefault.jpg" width="1000">
+  </a>
+</p>
+
+<p align="center">
+  Full tutorial walkthrough on YouTube
+</p>
+
 <p align="center">
   Lightweight offline macOS utility for finding, reviewing, organizing, and safely cleaning duplicate files.
 </p>
